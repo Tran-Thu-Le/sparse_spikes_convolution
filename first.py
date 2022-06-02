@@ -4,6 +4,9 @@ from setup import process_input, set_up, plot
 st.write("""
 A visualization of
 # Sparse Spikes Convolution
+
+**author:** Thu-Le Tran
+***date:*** 2022/03/06
 """)
 
 
