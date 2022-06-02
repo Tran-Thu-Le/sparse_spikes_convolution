@@ -2,7 +2,7 @@ import streamlit as st
 from setup import process_input, set_up, plot
 
 st.write("""
-A vizualization of
+A visualization of
 # Sparse Spikes Convolution
 """)
 
