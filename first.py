@@ -3,10 +3,16 @@ from setup import process_input, set_up, plot
 
 st.write("""
 A visualization of
-# Sparse Spikes Convolution
+# Sparse Spike Convolution
 
 **author:** Thu-Le Tran
-***date:*** 2022/03/06
+
+**date:** 03/06/2022
+
+**links:** [docs][1], [github][2]
+
+[1]: ..
+[2]: https://github.com/Tran-Thu-Le/sparse_spikes_convolution
 """)
 
 
